@@ -1,0 +1,20 @@
+{
+  "resources/css/AdorshoLipi.ttf": {
+    "file": "assets/AdorshoLipi-0792dac7.ttf",
+    "src": "resources/css/AdorshoLipi.ttf"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-813dd472.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/noorehidayat.ttf": {
+    "file": "assets/noorehidayat-628bf310.ttf",
+    "src": "resources/css/noorehidayat.ttf"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-ffa2faf6.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}

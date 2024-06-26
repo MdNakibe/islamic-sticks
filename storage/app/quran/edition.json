@@ -1,0 +1,62 @@
+[
+    {
+        "identifier": "bangla",
+        "language": "bn",
+        "languageName": "Bangla",
+        "name": "মুহিউদ্দীন খান",
+        "englishName": "Muhiuddin Khan",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+    },
+    {
+        "identifier": "english",
+        "language": "en",
+        "name": "Asad",
+        "englishName": "Muhammad Asad",
+        "languageName": "English",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+    },
+    {
+        "identifier": "hi.hindi",
+        "language": "hi",
+        "name": "फ़ारूक़ ख़ान & नदवी",
+        "languageName": "Hindi",
+        "englishName": "Suhel Farooq Khan and Saifur Rahman Nadwi",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+    },
+    {
+        "identifier": "ur.ahmedali",
+        "language": "ur",
+        "name": "احمد علی",
+        "languageName": "Urdu",
+        "englishName": "Ahmed Ali",
+        "format": "text",
+        "type": "translation",
+        "direction": "rtl"
+    },
+    {
+        "identifier": "ms.basmeih",
+        "language": "ms",
+        "name": "Basmeih",
+        "languageName": "Malay",
+        "englishName": "Abdullah Muhammad Basmeih",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+    },
+    {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "languageName": "Indonesian",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+    }
+]

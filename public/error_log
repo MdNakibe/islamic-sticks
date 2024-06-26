@@ -1,0 +1,19 @@
+[18-May-2023 10:47:33 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.28. in /home/w1y0172xlght/muslimsoul.org/vendor/composer/platform_check.php on line 24
+[18-May-2023 10:47:33 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.28. in /home/w1y0172xlght/muslimsoul.org/vendor/composer/platform_check.php on line 24
+[18-May-2023 10:48:11 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.28. in /home/w1y0172xlght/muslimsoul.org/vendor/composer/platform_check.php on line 24
+[09-Jul-2023 11:08:07 UTC] PHP Warning:  require(/home/w1y0172xlght/muslimsoul.org/vendor/composer/../../app/Helper/MyHelper.php): Failed to open stream: No such file or directory in /home/w1y0172xlght/muslimsoul.org/vendor/composer/autoload_real.php on line 55
+[09-Jul-2023 11:08:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/w1y0172xlght/muslimsoul.org/vendor/composer/../../app/Helper/MyHelper.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/w1y0172xlght/muslimsoul.org/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/w1y0172xlght/muslimsoul.org/vendor/composer/autoload_real.php(38): composerRequire6c3aa58e5e019c21bc67c7a40757e15a()
+#1 /home/w1y0172xlght/muslimsoul.org/vendor/autoload.php(25): ComposerAutoloaderInit6c3aa58e5e019c21bc67c7a40757e15a::getLoader()
+#2 /home/w1y0172xlght/muslimsoul.org/public/index.php(34): require('/home/w1y0172xl...')
+#3 {main}
+  thrown in /home/w1y0172xlght/muslimsoul.org/vendor/composer/autoload_real.php on line 55
+[09-Jul-2023 11:08:31 UTC] PHP Warning:  require(/home/w1y0172xlght/muslimsoul.org/vendor/composer/../../app/Helper/MyHelper.php): Failed to open stream: No such file or directory in /home/w1y0172xlght/muslimsoul.org/vendor/composer/autoload_real.php on line 55
+[09-Jul-2023 11:08:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/w1y0172xlght/muslimsoul.org/vendor/composer/../../app/Helper/MyHelper.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/w1y0172xlght/muslimsoul.org/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/w1y0172xlght/muslimsoul.org/vendor/composer/autoload_real.php(38): composerRequire6c3aa58e5e019c21bc67c7a40757e15a()
+#1 /home/w1y0172xlght/muslimsoul.org/vendor/autoload.php(25): ComposerAutoloaderInit6c3aa58e5e019c21bc67c7a40757e15a::getLoader()
+#2 /home/w1y0172xlght/muslimsoul.org/public/index.php(34): require('/home/w1y0172xl...')
+#3 {main}
+  thrown in /home/w1y0172xlght/muslimsoul.org/vendor/composer/autoload_real.php on line 55
